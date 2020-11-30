@@ -19,8 +19,20 @@ Several changes were applied to the dataset, these changes include:
 
 The data was analyzed according to sales of video game by the following metrics:
   1. Region
+  
+  ![Capture](https://user-images.githubusercontent.com/74891641/100587912-24911e80-332c-11eb-8dd2-fdddfed11578.PNG)
+  
   2. Platform
+  
+  ![Capture](https://user-images.githubusercontent.com/74891641/100588177-80f43e00-332c-11eb-82b4-25a30c118983.PNG)
+  
   3. Genre
+  
+  ![Capture](https://user-images.githubusercontent.com/74891641/100588297-a84b0b00-332c-11eb-9309-0603a555d6c7.PNG)
+
+# Case study: Pokemon series
+
+![Capture](https://user-images.githubusercontent.com/74891641/100588483-ddeff400-332c-11eb-80cc-e84a55835fd4.PNG)
 
 # Conclusion
 A case study was also conducted to determine the sales of video games from long running series such as Pokemon.
