@@ -1,9 +1,14 @@
-# Analysis of video game sales 
+# Introduction 
 
 We would like to analyse the data for video game sales. The video game sales dataset was downloaded from Kaggle. The dataset was scrapped from vgchartz.com. 
 
 First and foremost, the required libraries will be imported. 
 We then use pandas read the csv file.
+
+# Software
+
+The following software and library were used for this project:
+
 
 # Importing and cleaning data
 
@@ -11,6 +16,8 @@ We imported the data using pandas and studied the types of data in the dataset.
 Several changes were applied to the dataset, these changes include:
   1. Dropping "NaN" values from the dataset
   2. Converting the "Year" column to "int" from "float"
+  
+  
   3. Filtering out years where data is incomplete ie. 2017 to 2020
   4. Limiting our dataset to games which made at least 1 million in global sales
 
