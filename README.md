@@ -5,11 +5,6 @@ We would like to analyse the data for video game sales. The video game sales dat
 First and foremost, the required libraries will be imported. 
 We then use pandas read the csv file.
 
-# Software
-
-The following software and library were used for this project:
-
-
 # Importing and cleaning data
 
 We imported the data using pandas and studied the types of data in the dataset.
