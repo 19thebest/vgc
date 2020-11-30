@@ -1,9 +1,8 @@
 # Introduction 
 
-We would like to analyse the data for video game sales. The video game sales dataset was downloaded from Kaggle. The dataset was scrapped from vgchartz.com. 
+The purpose of this project is to understand the trends in the video game sales data over the years. This project also examines the sales data of long running video game series to determine if the newer titles perform better than the older titles in terms of sales. 
 
-First and foremost, the required libraries will be imported. 
-We then use pandas read the csv file.
+The video game sales dataset was downloaded from [Kaggle](https://www.kaggle.com/gregorut/videogamesales).
 
 # Importing and cleaning data
 
