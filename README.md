@@ -29,12 +29,10 @@ The data was analyzed according to sales of video game by the following metrics:
   ![Capture](https://user-images.githubusercontent.com/74891641/100588297-a84b0b00-332c-11eb-9309-0603a555d6c7.PNG)
 
 # Case study: Pokemon series
-
+A case study was also conducted to determine the sales of video games from long running series such as Pokemon.
 ![Capture](https://user-images.githubusercontent.com/74891641/100588483-ddeff400-332c-11eb-80cc-e84a55835fd4.PNG)
 
 # Conclusion
-A case study was also conducted to determine the sales of video games from long running series such as Pokemon.
-
 In this project, we cleaned the data and got rid of a few NaN values as we did not have the neccessary information to replace them with.
 
 It was determined that over the years, the video game industry have been on the rise from the 1990s and it peaked around the late 2000s. It has then been on a decline from 2010. This trend is similar throughout the 4 regions.
